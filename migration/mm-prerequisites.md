@@ -36,6 +36,7 @@ This article is a resource where you can find prerequisites and endpoint informa
 |Network card|1 Gbps|High-speed internet connection|
 |Operating system|Windows Server 2012 R2 or higher </br>Windows 10 agent|Windows Server 2012 R2 or higher </br>Windows 10 agent|
 |Anti-virus|Anti-virus software on your computer can slow down the migration speed. Be aware of the impact anti-virus software, and consider the risk of turning off your organization's antivirus software. |
+|Runtime user Permissions|Migration Manager Agent runtime user needs the ability to 'Run as a Service'
 
 
 </br></br>
